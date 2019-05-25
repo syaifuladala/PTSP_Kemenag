@@ -1,0 +1,15 @@
+{
+    "name": "user/composer-pdf",
+    "description": "composer pdf",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "NF4Caniago",
+            "email": "fuegoardinte@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.3"
+    }
+}

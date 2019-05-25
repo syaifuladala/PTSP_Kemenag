@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/userhome.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/profil.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/assets/css/info.css</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/index.html</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/upload.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/searching_admin_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/home.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/admin/upload_hasil_ods3.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/Form_controller.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/admin_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/tes_upload_file.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/admin_upload_ods3_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/user_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/searching_admin_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/admin/template_suratods3_pdf.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/tes_download.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/success.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/hasil.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/searching_layanan_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/daftar.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/nods/nods7.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/searching/hasil_searching.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/User_controller.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/admin/detail_pengajuan_ods3.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/coba.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/Home_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/login_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/upload_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/login_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/ajukanpermohonan.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/daftar_layanan.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/assets/css/menu_utama.css</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/view_pdf.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/nods.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/admin_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/user/upload_ods3_file.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/controllers/searching_layanan_controler.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/libraries/convert_pdf.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/upload_layanan/upload_ods3a.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/admin/admin_bo.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/models/form_model.php</file>
+            <file>file:/C:/xampp/htdocs/PTSP_Kemenag/application/views/succes_tes_upload.php</file>
+        </group>
+    </open-files>
+</project-private>

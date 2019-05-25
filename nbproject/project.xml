@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>PTSP_Kemenag</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>berlaku</word>
+            <word>Haji</word>
+            <word>Keagamaan</word>
+            <word>Kemenag</word>
+            <word>memberikan</word>
+            <word>Penting</word>
+            <word>PIHK</word>
+            <word>PPNNS</word>
+            <word>sertifikat</word>
+            <word>Yogyakarta</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

@@ -1,0 +1,45 @@
+img.icon_home{
+    height: 100px;
+    width: 100px;
+    margin-top: 90px;
+}
+
+div.info{
+    border-radius: 20px;
+    background-color: white;
+    padding: 40px;
+    margin-bottom: 30px;
+    border-color: #ada7a4;
+    border-style: solid;
+    border-width: 4px
+}
+
+ol.list{
+    font-size: 22px;
+}
+
+a.list{
+    font-size: 22px;
+}
+
+ul.list{
+    font-size: 17px;
+}
+
+mybutton{
+    
+}
+
+body {
+   background:url(../gambar/bg.jpg);
+}
+
+.navbar a:hover{
+        background-color: #009c41;
+}
+
+div.mynav{
+    position: fixed;
+    top: 0px;
+    width: 100%
+}
